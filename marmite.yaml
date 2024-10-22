@@ -1,9 +1,9 @@
 name: YourBlog
 tagline: Things you talk about
-url: https://rochacbruno.github.io/make-me-a-blog
+url: https://vfalmado.github.io/blog
 menu:
-  - ["About", "about.html"]
+  - ["Sobre", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno"]
+  - ["Me siga", "https://bolha.us/@vitu"]
+  - ["Github", "https://github.com/vfalmado"]
