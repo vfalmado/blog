@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
+name: Vítor Fernandes Almado
+tagline: Reflexões e coisas que eu gosto
 url: https://vfalmado.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://bolha.us/@vitu"]
+  - ["Github", "https://github.com/vfalmado"]
 
 
 # More options available to customize the website
