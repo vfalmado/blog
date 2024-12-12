@@ -2,10 +2,10 @@ name: Vítor Fernandes Almado
 tagline: Reflexões e coisas que eu gosto
 url: https://vfalmado.github.io/blog
 menu:
-  - ["About", "about.html"]
-  - ["Pages", "pages.html"]
+  - ["Sobre", "about.html"]
+  - ["Páginas", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://bolha.us/@vitu"]
+  - ["Mastodon", "https://bolha.us/@vitu"]
   - ["Github", "https://github.com/vfalmado"]
 
 
