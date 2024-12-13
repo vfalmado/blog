@@ -1,0 +1,23 @@
+---
+date: 2018-08-18
+tags: resenha, artigo, sociologia, WSK
+---
+
+# As três economias políticas do Welfare State
+
+No artigo intitulado “As três economias políticas do Welfare State“[^1], Gosta Esping-Andersen faz uma análise sobre o desenvolvimento e as características de tipos do chamado Estado de Bem-Estar. Mas antes desenvolve uma reflexão acerca de uma primeira definição mais ampla sobre o tema.
+
+A este respeito, afirma que o welfare state se caracterizaria, de forma geral e até popularmente, pelo bem-estar básico dos cidadãos e os altos gastos do Estado. Porém, acredita que seja necessário ir além nessa reflexão. Para isso apresenta as seguintes questões: o que seria esse bem-estar básico? as políticas sociais apresentam um caráter emancipador? as políticas contradizem o mercado, ou seja, produzem algum grau de desmercadorização? ajudam na legitimação do sistema? e, por fim, gastos do Estado com o que?
+
+Quanto aos gastos do Estado, podem ser direcionado para diferentes frentes, como funcionários públicos, classes mais baixas, classes médias, desempregados, entre outros, mas o que é colocado como principal pelo autor é o bem-estar das famílias, sendo essa a base das políticas do welfare state. Nesse sentido, o de provisão social, define que as políticas do governo podem ser residual, que seriam as políticas voltadas para compensar e/ou corrigir as falhas do mercado, como um bolsa família, e institucional ou universalista, que atenderia toda a população a todo momento, como o SUS no Brasil.
+
+Outras características dessa forma de Estado são o fortalecimento do trabalhador e o enfraquecimento da autoridade absoluta do trabalhador, o que se dá em decorrência de uma desmercadorização (termo usado pelo autor), a qual seria a “capacidade de manter-se sem depender do mercado”. Assim, o indivíduo poderia “parar de trabalhar quando achar necessário”, mais especificamente, em casos de doença, gravidez etc, não sendo, portanto, uma situação permanente e que também precisa ser comprovada, como por meio de um atestado médico.
+
+Para facilitar a explicação, Esping-Andersen realiza uma tipificação do welfare state, separando em três modelos:
+- Welfare State liberal: presta assistência unicamente aos comprovadamente pobres; as transferências universais são reduzidas; os planos de previdência são modestos; qualquer benefício, além de ser mínimo, apresenta regras estritas para a sua obtenção; grande encorajamento do mercado; mínima desmercadorização. Modelo presente nos Estados Unidos, Canadá e Austrália. Um exemplo de política desse modelo é o Bolsa Família.
+- Welfare State corporativista: maior preservação das diferenças de status, os quais estão diretamente ligados aos direitos; o impacto sobre a redistribuição de renda é desprezível; a interferência do Estado só se sobressai quando cessa a capacidade familiar, âmbito que é essencial para este modelo. O mesmo está presente na Áustria, França, Alemanha e Itália. Um exemplo dessa política é a CLT implementada por Vargas, já que esta somente se aplicava aos trabalhadores urbanos.
+- Welfare State social-democrata: políticas com o maior efeito universalista e de desmercadorização; objetiva promover a igualdade com os melhores padrões de qualidade e não no estritamente necessário; exclusão do mercado; solidariedade essencialmente universal; todos os cidadãos são beneficiados, dependem das políticas e se sentem na obrigação de pagar pelos serviços prestados pelo Estado; visa “socializar os custos da família; segundo o autor, seria uma “fusão peculiar de liberalismo e socialismo”; o único dos modelos que adota o pleno emprego. Utilizado na Noruega e Suécia. Um exemplo dessa política seria o SUS, se apresentasse a qualidade necessária.
+
+Entretanto, ao final há algumas ressalvas. Primeiramente que é “praticamente impossível supor que qualquer partido trabalhista ou de esquerda chegue algum dia, sozinho, a estruturar um welfare state“, já deixando então clara a grande dependência de coalizões políticas para se alcançar este objetivo. Importante ressaltar também que nenhum país é completamente caracterizado por nenhum dos modelos apresentados no texto, sendo, ao invés disso, uma mistura deles com, talvez, uma predominância de um tipo de política. Porém, tentei explicitar essa característica ao colocar diferentes situações do cenário nacional em todos modelos, mostrando assim que um mesmo país pode apresentar todos eles simultaneamente.
+
+[^1] ESPING-ANDERSEN, Gosta. As três economias políticas do welfare state. Lua Nova: Revista de Cultura e Política, [S.L.], n. 24, p. 85-116, set. 1991. FapUNIFESP (SciELO). http://dx.doi.org/10.1590/s0102-64451991000200006.
