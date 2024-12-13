@@ -8,6 +8,9 @@ menu:
   - ["Mastodon", "https://bolha.us/@vitu"]
   - ["GitHub", "https://github.com/vfalmado"]
 
+enable_search: true
+search_title: Busca
+pagination: 10
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
