@@ -1,11 +1,11 @@
 ---
-date: 2018-08-18
+date: 2018-09-18
 tags: resenha, artigo, sociologia, WSK
 ---
 
 # As três economias políticas do Welfare State
 
-No artigo intitulado “As três economias políticas do Welfare State“[^1], Gosta Esping-Andersen faz uma análise sobre o desenvolvimento e as características de tipos do chamado Estado de Bem-Estar. Mas antes desenvolve uma reflexão acerca de uma primeira definição mais ampla sobre o tema.
+No artigo intitulado “As três economias políticas do Welfare State“¹, Gosta Esping-Andersen faz uma análise sobre o desenvolvimento e as características de tipos do chamado Estado de Bem-Estar. Mas antes desenvolve uma reflexão acerca de uma primeira definição mais ampla sobre o tema.
 
 A este respeito, afirma que o welfare state se caracterizaria, de forma geral e até popularmente, pelo bem-estar básico dos cidadãos e os altos gastos do Estado. Porém, acredita que seja necessário ir além nessa reflexão. Para isso apresenta as seguintes questões: o que seria esse bem-estar básico? as políticas sociais apresentam um caráter emancipador? as políticas contradizem o mercado, ou seja, produzem algum grau de desmercadorização? ajudam na legitimação do sistema? e, por fim, gastos do Estado com o que?
 
@@ -20,4 +20,4 @@ Para facilitar a explicação, Esping-Andersen realiza uma tipificação do welf
 
 Entretanto, ao final há algumas ressalvas. Primeiramente que é “praticamente impossível supor que qualquer partido trabalhista ou de esquerda chegue algum dia, sozinho, a estruturar um welfare state“, já deixando então clara a grande dependência de coalizões políticas para se alcançar este objetivo. Importante ressaltar também que nenhum país é completamente caracterizado por nenhum dos modelos apresentados no texto, sendo, ao invés disso, uma mistura deles com, talvez, uma predominância de um tipo de política. Porém, tentei explicitar essa característica ao colocar diferentes situações do cenário nacional em todos modelos, mostrando assim que um mesmo país pode apresentar todos eles simultaneamente.
 
-[^1] ESPING-ANDERSEN, Gosta. As três economias políticas do welfare state. Lua Nova: Revista de Cultura e Política, [S.L.], n. 24, p. 85-116, set. 1991. FapUNIFESP (SciELO). http://dx.doi.org/10.1590/s0102-64451991000200006.
+¹ ESPING-ANDERSEN, Gosta. As três economias políticas do welfare state. Lua Nova: Revista de Cultura e Política, [S.L.], n. 24, p. 85-116, set. 1991. FapUNIFESP (SciELO). http://dx.doi.org/10.1590/s0102-64451991000200006.
