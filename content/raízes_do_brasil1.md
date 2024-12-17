@@ -23,4 +23,4 @@ A virtude suprema do português seria a obediência, novamente em decorrência d
 
 No fim, pode-se dizer que o principal objetivo do capítulo, como já nos indica o título, é a defesa da tese do Brasil como “Fronteira da Europa”, ponto que precisa de maiores discussões, já que apresenta diversas diferenças importantes como quanto à escravidão, que tinha grande presença no Brasil mas não em Portugal, e, consequentemente, à economia. Sua intenção fica clara ao terminar o capítulo afirmando que “podemos dizer que de lá nos veio a forma atual de nossa cultura; o resto foi matéria que se sujeitou mal ou bem a essa forma” (p. 46).
 
-¹ HOLANDA, Sérgio Buarque de. Fronteiras da Europa. In: HOLANDA, Sérgio Buarque de. Raízes do Brasil. 27. ed. São Paulo: Companhia das Letras, 2014. Cap. 7. p. 1-10.
+¹ HOLANDA, Sérgio Buarque de. Fronteiras da Europa. In: HOLANDA, Sérgio Buarque de. Raízes do Brasil. 27. ed. São Paulo: Companhia das Letras, 2014. Cap. 7. p. 33-46.
