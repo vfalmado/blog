@@ -57,7 +57,7 @@ Ao criar seu primeiro projeto, você pode nomear a sessão e escolher começar d
 
 Pessoalmente, prefiro iniciar projetos sem configurações predefinidas e ajustá-los conforme minhas necessidades.
 
-![Print 3](media/2025/01/Ardour/Print3.png)
+![Print 3](media/2025/01_Ardour/Print3.png)
 
 Nesta etapa, é essencial configurar áudio e MIDI adequadamente. Se estiver no Linux, altere o *Sistema de Áudio* de *ALSA* para *JACK/Pipewire*. Embora outras opções possam funcionar, essa é a que consigo utilizar.
 
