@@ -1,5 +1,5 @@
 ---
-date: 2025-01-
+date: 2025-01-11
 tags: software, Ardour, tutorial, música
 ---
 
