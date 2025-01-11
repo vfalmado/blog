@@ -3,6 +3,8 @@ date: 2025-01-
 tags: software, Ardour, tutorial, música
 ---
 
+# Introdução ao Ardour: instalação, configuração inicial e gravação
+
 O Ardour é um software profissional para produção musical, ou DAW (Digital Audio Workstation), de código aberto e disponível gratuitamente para GNU/Linux. Apesar de todas as suas funções, não há muitos guias em português sobre o uso do programa e sua configuração inicial, assunto que será abordado neste post.
 
 Não pretendo explicar todo o funcionamento do Ardour, até porque ainda estou aprendendo a utilizá-lo, mas ensinarei como realizar a instalação e algumas configurações importantes que devem ser feitas ao iniciar o seu projeto para que tudo funcione da melhor forma possível. Este post não irá tratar da instalação e uso de plugins, tema que abordarei em um post exclusivo sobre os principais plugins que utilizo.
