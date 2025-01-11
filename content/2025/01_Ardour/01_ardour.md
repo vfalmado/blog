@@ -41,11 +41,11 @@ flatpak install flathub org.ardour.Ardour
 
 Ao iniciar o Ardour pela primeira vez, será exibida uma tela de boas-vindas onde você pode escolher o tamanho da fonte e dos elementos da interface. Essas configurações podem ser alteradas posteriormente em *Editar > Preferências > Appearance > Size and Scale*. A melhor opção varia de acordo com o seu monitor; no meu caso, mantenho em 100%.
 
-![Print 1](Print1.png)
+![Print 1](media/2025/01/Ardour/Print1.png)
 
 Na etapa seguinte, você definirá onde os projetos serão salvos por padrão. Cada sessão criará sua própria pasta, então escolha o local de sua preferência e avance para a próxima etapa.
 
-![Print 2](Print2.png)
+![Print 2](media/2025/01/Ardour/Print2.png)
 
 ## Criando o primeiro projeto
 
@@ -57,7 +57,7 @@ Ao criar seu primeiro projeto, você pode nomear a sessão e escolher começar d
 
 Pessoalmente, prefiro iniciar projetos sem configurações predefinidas e ajustá-los conforme minhas necessidades.
 
-![Print 3](Print3.png)
+![Print 3](media/2025/01/Ardour/Print3.png)
 
 Nesta etapa, é essencial configurar áudio e MIDI adequadamente. Se estiver no Linux, altere o *Sistema de Áudio* de *ALSA* para *JACK/Pipewire*. Embora outras opções possam funcionar, essa é a que consigo utilizar.
 
@@ -65,7 +65,7 @@ O *Buffer Size* afeta a qualidade do áudio e a latência. Valores altos podem c
 
 Você pode alterar essas configurações posteriormente em *Editar > Preferências > General > Show Audio/MIDI Setup Window*.
 
-![Print 4](Print4.png)
+![Print 4](media/2025/01/Ardour/Print4.png)
 
 ## Gravando seu instrumento
 
@@ -73,18 +73,18 @@ Para gravar seu instrumento, você precisará de uma interface de áudio, que tr
 
 Na janela do projeto, clique duas vezes abaixo da faixa *Master* para criar uma nova faixa. Dê um nome à faixa e clique em *Add and Close*.
 
-![Print 5](Print5.png)
+![Print 5](media/2025/01/Ardour/Print5.png)
 
 Clique com o botão direito sobre o nome da faixa criada, selecione *Entradas...* e selecione o correspondente à sua interface de áudio. Depois, feche a janela.
 
-![Print 6](Print6.png)
+![Print 6](media/2025/01/Ardour/Print6.png)
 
 Clique com o botão esquerdo no mesmo local para abrir o menu lateral da faixa e ative a opção *In* para ouvir o som processado pelo Ardour. Você pode modificar o som utilizando plugins, tema que abordarei em outro post.
 
-![Print 7](Print7.png)
+![Print 7](media/2025/01/Ardour/Print7.png)
 
 Por fim, para gravar, ative o botão de gravação no topo da janela, selecione o botão de gravação na faixa desejada e pressione *Play*.
 
-![Print 8](Print8.png)
+![Print 8](media/2025/01/Ardour/Print8.png)
 
 Agora é só fazer suas composições e começar a desenvolver suas músicas. Lembrando sempre do mais importante: divirta-se.
